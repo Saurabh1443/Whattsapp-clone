@@ -1,0 +1,31 @@
+.conver{
+
+    height:auto;
+    background-color:white;
+    /* margin-top:5px; */
+    margin-top:5px;
+  
+}
+.Ulist{
+
+/* margin-left:-25px; */
+padding-left:10px;
+
+}
+.list{
+   padding:10px;
+    list-style-type: none;
+ padding-top:2px;
+ border-radius:8px;
+margin-bottom:3px;
+background-color:pink;
+cursor:pointer;
+}
+.upper{
+    display:flex;
+}
+img{
+    height:30px;
+    width:40px;
+    border-radius:20%;
+}
